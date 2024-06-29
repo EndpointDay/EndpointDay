@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm <a href="https://github.com/reach4ble" rel="nofollow" target="_blank">0xSecurinet</a>!
+Hi, I'm <a href="https://github.com/reach4ble" rel="nofollow" target="_blank">Endpoint' Day</a>!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 
@@ -11,14 +11,14 @@ Disclaimer:
 
 Repos. or Starred projects in this profile is for EDUCATIONAL PURPOSES ONLY, I'm not responsible for any bad uses from anyone ❌✋
 
-<img align="left" src="https://github.com/0xsecurinet/0xsecurinet/blob/main/dev.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/endpoint1337/endpoint1337/blob/main/dev.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
-@0xsecurinet
+@endpoint1337
 -------------------------
 💻 I'm a beginner developer
-🌟 Main languages: Java, Python, HTML, CSS, C++, C#, ASM
+🌟 Main languages: Python, Java, C++, Assembly, JavaScript, HTML
 🧑‍💻 beginner ethical hacker & reverse engineer
 ```
 <hr>
