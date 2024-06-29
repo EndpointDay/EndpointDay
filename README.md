@@ -19,7 +19,7 @@ Repos. or Starred projects in this profile is for EDUCATIONAL PURPOSES ONLY, I'm
 -------------------------
 💻 I'm a beginner developer
 🌟 Main languages: Python, Java, C++, Assembly, JavaScript, HTML
-🧑‍💻 beginner ethical hacker & reverse engineer
+🧑‍💻 beginner pentester & software engineer
 ```
 <hr>
 
