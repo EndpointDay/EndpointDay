@@ -4,7 +4,7 @@ Hi, I'm <a href="https://github.com/endpoint1337" rel="nofollow" target="_blank"
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python%2C+Java%2C+Cpp%2C+Assembly%2C+JavaScript%2C+HTML;Cybersecurity+Enthusiast;Always+Learning+New+Things!&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python%2C+Java%2C+JavaScript%2C+HTML;NetworkSecurity+Enthusiast;Always+Learning+New+Things!&center=true&width=500&height=50"></a>
 </p>
 
 ### 🚨 Disclaimer:
