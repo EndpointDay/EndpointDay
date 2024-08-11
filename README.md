@@ -18,7 +18,7 @@ Hi, I'm <a href="https://github.com/endpoint1337" rel="nofollow" target="_blank"
 @endpoint1337
 -------------------------
 💻 Aspiring Developer & Pentester
-🌟 Main languages: Python, Java, C++, Assembly, JavaScript, HTML
+🌟 Main languages: Python, Java, JavaScript, HTML
 🧑‍💻 Member of the DaySec team - AntiSec Division
 ```
 <hr>
