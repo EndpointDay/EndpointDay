@@ -1,6 +1,6 @@
 <h1 align="center">
 Hi, I'm <a href="https://github.com/endpoint1337" rel="nofollow" target="_blank">Endpoint</a> from <a href="https://discord.gg/fEe8xaCSRa" rel="nofollow" target="_blank">DaySec</a>!
-  <img src="https://github.com/endpoint1337/endpoint1337/blob/main/%D1%86%D1%83%D0%BA%D1%86%D1%83%D1%80%D1%83%D0%BA.gif" width="30"></h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 
 <p align="center">
@@ -11,7 +11,7 @@ Hi, I'm <a href="https://github.com/endpoint1337" rel="nofollow" target="_blank"
 
 **All repositories or starred projects in this profile are for EDUCATIONAL PURPOSES ONLY. I am not responsible for any misuse by others.** ❌✋
 
-<img align="right" src="https://github.com/endpoint1337/endpoint1337/blob/main/dev.png" alt="Unfortunately, I didn't find the author of the pic. Feel free to open a pull request if found." width="320" />
+<img align="right" src="https://github.com/endpoint1337/endpoint1337/blob/main/%D1%86%D1%83%D0%BA%D1%86%D1%83%D1%80%D1%83%D0%BA.gif" alt="Unfortunately, I didn't find the author of the pic. Feel free to open a pull request if found." width="320" />
 <hr>
 
 ```
