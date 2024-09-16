@@ -4,7 +4,7 @@ Hi, I'm <a href="https://github.com/EndpointDay" rel="nofollow" target="_blank">
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python%2C+Java%2C+JavaScript%2C+HTML;NetworkSecurity+Enthusiast;Always+Learning+New+Things!&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python%2C+Java%2C+HTML;NetworkSecurity+Enthusiast;Always+Learning+New+Things!&center=true&width=500&height=50"></a>
 </p>
 
 ### 🚨 Disclaimer:
@@ -17,7 +17,7 @@ Hi, I'm <a href="https://github.com/EndpointDay" rel="nofollow" target="_blank">
 @EndpointDay
 -------------------------
 💻 Aspiring Developer & Pentester
-🌟 Main languages: Java, Python
+🌟 Main languages: Java, Python, HTML
 🧑‍💻 Member of the DaySec team - AntiSec Division
 ```
 <hr>
