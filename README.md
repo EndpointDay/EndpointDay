@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm <a href="https://github.com/endpoint1337" rel="nofollow" target="_blank">Endpoint</a> from <a href="https://discord.gg/fEe8xaCSRa" rel="nofollow" target="_blank">DaySec</a>!
+Hi, I'm <a href="https://github.com/EndpointDay" rel="nofollow" target="_blank">Endpoint</a> from <a href="https://discord.gg/fEe8xaCSRa" rel="nofollow" target="_blank">DaySec</a>!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 
@@ -14,7 +14,7 @@ Hi, I'm <a href="https://github.com/endpoint1337" rel="nofollow" target="_blank"
 <hr>
 
 ```
-@endpoint1337
+@EndpointDay
 -------------------------
 💻 Aspiring Developer & Pentester
 🌟 Main languages: Java, Python, (learning Rust)
