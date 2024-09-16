@@ -17,7 +17,7 @@ Hi, I'm <a href="https://github.com/EndpointDay" rel="nofollow" target="_blank">
 @EndpointDay
 -------------------------
 💻 Aspiring Developer & Pentester
-🌟 Main languages: Java, Python, (learning Rust)
+🌟 Main languages: Java, Python
 🧑‍💻 Member of the DaySec team - AntiSec Division
 ```
 <hr>
